@@ -11,7 +11,7 @@ Supplementary material for KDD 2023 submission Adversarial Learning of Group and
 ### Run with Specified Parameters
 Run DCFR model on Adult income dataset and conditional fairness task with fair coefficient 20.
 ```bash
-python main.py --fair-coeff 1 --fair-coeff-individual 1 --dataset german
+python main.py --fair-coeff 1 --fair-coeff-individual 1 --dataset adult
 ```
 Note that the coefficient for accuracy is fixed to 1. Other coefficients are default to 1. If a non-zero gamma is specified, the focal loss function will be enabled. More default options for each dataset is shown in config.json.
 
