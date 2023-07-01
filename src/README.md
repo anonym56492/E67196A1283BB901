@@ -1,5 +1,5 @@
 # Adversarial Learning of Group and Individual Fair Representations (GIFair)
-Supplementary material for KDD 2023 submission Adversarial Learning of Group and Individual Fair Representations.
+Supplementary material for submission Adversarial Learning of Group and Individual Fair Representations.
 
 ## Installation
 ### Requirements
