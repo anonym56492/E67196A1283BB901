@@ -1,0 +1,65 @@
+{
+    "adult": {
+        "fair_coeff": 0.0,
+        "fair_coeff_individual": 0.0,
+        "batch_size": 512,
+        "lr": 1.0,
+        "epoch": 400,
+        "aud_steps": 1,
+        "aud_individual_steps": 1,
+        "optim": "Adadelta",
+        "xdim": 113,
+        "zdim": 60,
+        "ydim": 1,
+        "sdim": 1,
+        "encoder": [],
+        "prediction": [],
+        "audit": [
+            50
+        ],
+        "k": 10,
+        "gamma": 0
+    },
+    "compas": {
+        "fair_coeff": 0.0,
+        "fair_coeff_individual": 0.0,
+        "batch_size": 256,
+        "lr": 1.0,
+        "epoch": 400,
+        "aud_steps": 1,
+        "aud_individual_steps": 1,
+        "optim": "Adadelta",
+        "xdim": 11,
+        "zdim": 8,
+        "ydim": 1,
+        "sdim": 1,
+        "encoder": [],
+        "prediction": [],
+        "audit": [
+            8
+        ],
+        "k": 10,
+        "gamma": 0
+    },
+    "german": {
+        "fair_coeff": 0.0,
+        "fair_coeff_individual": 0.0,
+        "batch_size": 128,
+        "lr": 1.0,
+        "epoch": 400,
+        "aud_steps": 1,
+        "aud_individual_steps": 1,
+        "optim": "Adadelta",
+        "xdim": 61,
+        "zdim": 40,
+        "ydim": 1,
+        "sdim": 1,
+        "encoder": [],
+        "prediction": [],
+        "audit": [
+            30
+        ],
+        "k": 10,
+        "gamma": 0
+    }
+}

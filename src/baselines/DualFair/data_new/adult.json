@@ -1,0 +1,64 @@
+{
+    "columns": [
+        {
+            "name": "age",
+            "type": "categorical"
+        },
+        {
+            "name": "workclass",
+            "type": "categorical"
+        },
+        {
+            "name": "fnlwgt",
+            "type": "continuous"
+        },
+        {
+            "name": "education",
+            "type": "categorical"
+        },
+        {
+            "name": "education-num",
+            "type": "categorical"
+        },
+        {
+            "name": "marital-status",
+            "type": "categorical"
+        },
+        {
+            "name": "occupation",
+            "type": "categorical"
+        },
+        {
+            "name": "relationship",
+            "type": "categorical"
+        },
+        {
+            "name": "race",
+            "type": "categorical"
+        },
+        {
+            "name": "sex",
+            "type": "continuous"
+        },
+        {
+            "name": "capital-gain",
+            "type": "continuous"
+        },
+        {
+            "name": "capital-loss",
+            "type": "continuous"
+        },
+        {
+            "name": "hours-per-week",
+            "type": "continuous"
+        },
+        {
+            "name": "native-country",
+            "type": "categorical"
+        },
+        {
+            "name": "result",
+            "type": "categorical"
+        }
+    ]
+}

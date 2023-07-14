@@ -1,0 +1,36 @@
+{
+    "columns": [
+        {
+            "name": "c_charge_degree",
+            "type": "categorical"
+        },
+        {
+            "name": "race",
+            "type": "continuous"
+        },
+        {
+            "name": "age_cat",
+            "type": "categorical"
+        },
+        {
+            "name": "sex",
+            "type": "categorical"
+        },
+        {
+            "name": "priors_count",
+            "type": "continuous"
+        },
+        {
+            "name": "days_b_screening_arrest",
+            "type": "continuous"
+        },
+        {
+            "name": "decile_score",
+            "type": "continuous"
+        },
+        {
+            "name": "result",
+            "type": "categorical"
+        }
+    ]
+}

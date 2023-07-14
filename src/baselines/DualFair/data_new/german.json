@@ -1,0 +1,88 @@
+{
+    "columns": [
+        {
+            "name": "A1",
+            "type": "categorical"
+        },
+        {
+            "name": "A2",
+            "type": "continuous"
+        },
+        {
+            "name": "A3",
+            "type": "categorical"
+        },
+        {
+            "name": "A4",
+            "type": "categorical"
+        },
+        {
+            "name": "A5",
+            "type": "continuous"
+        },
+        {
+            "name": "A6",
+            "type": "categorical"
+        },
+        {
+            "name": "A7",
+            "type": "categorical"
+        },
+        {
+            "name": "A8",
+            "type": "continuous"
+        },
+        {
+            "name": "A9",
+            "type": "categorical"
+        },
+        {
+            "name": "A10",
+            "type": "categorical"
+        },
+        {
+            "name": "A11",
+            "type": "continuous"
+        },
+        {
+            "name": "A12",
+            "type": "categorical"
+        },
+        {
+            "name": "A13",
+            "type": "continuous"
+        },
+        {
+            "name": "A14",
+            "type": "categorical"
+        },
+        {
+            "name": "A15",
+            "type": "categorical"
+        },
+        {
+            "name": "A16",
+            "type": "continuous"
+        },
+        {
+            "name": "A17",
+            "type": "categorical"
+        },
+        {
+            "name": "A18",
+            "type": "continuous"
+        },
+        {
+            "name": "A19",
+            "type": "categorical"
+        },
+        {
+            "name": "A20",
+            "type": "categorical"
+        },
+        {
+            "name": "A21",
+            "type": "continuous"
+        }
+    ]
+}
